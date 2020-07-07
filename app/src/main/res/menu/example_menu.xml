@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:id="@+id/text"
+        android:title="All"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/none"
+        android:title="All"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item1"
+        android:title="Adventure"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item2"
+        android:title="Biography"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item3"
+        android:title="Comedy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item4"
+        android:title="Fantasy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item5"
+        android:title="Historical"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item6"
+        android:title="Horror"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item7"
+        android:title="Mythology"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item8"
+        android:title="Romance"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item9"
+        android:title="Sci Fi"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item10"
+        android:title="Self Help"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/item11"
+        android:title="Thriller"
+        app:showAsAction="never"/>
+
+
+</menu>

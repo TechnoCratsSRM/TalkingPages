@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Talking Pages</string>
+    <string name="song_name">Fairy Tale-Main Theme</string>
+    <string name="artist">DJ AG</string>
+    <string name="left_time">00:00:00</string>
+    <string name="right_time">00:00:00</string>
+    <string name="zero">0:00</string>
+</resources>
