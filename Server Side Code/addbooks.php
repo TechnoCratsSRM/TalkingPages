@@ -1,3 +1,4 @@
+<?php
 /*Talking Pages
 Free Audiobook App
 Created By: Soumya Chowdhury
@@ -5,7 +6,6 @@ Created By: Soumya Chowdhury
             Nagani Vrudant Gopalbhai
             Mukul Bhambari
 */
-<?php
 /*Make connection database*/
 $conn = mysqli_connect("localhost","root","","audiobooklib");
 
